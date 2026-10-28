@@ -4,8 +4,6 @@
 
 ### Systeme. Entwicklung. Support.
 
-**Im Netz auch als TechPanda unterwegs. 🐼**
-
 Ich bringe Systeme zum Laufen und Ideen ins Web.
 
 [Website](https://marcelkuhla.de) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/marcelkuhla/) &nbsp; / &nbsp; [Instagram](https://www.instagram.com/marcel.kuhla/)
