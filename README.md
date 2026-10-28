@@ -23,21 +23,6 @@ marcel@github:~$ whoami
   Neugierig bleiben. Dinge bauen. Probleme lösen.
 ```
 
-## Zwischen Serverraum und Quellcode
-
-Ich bin Marcel Kuhla – Technik-Nerd mit einer Leidenschaft für Systeme, Webentwicklung und eigene Projekte. Ich plane, baue und betreue IT-Infrastrukturen und entwickle individuelle Weblösungen. Mich interessiert dabei das Ganze: vom Server unter der Anwendung bis zur Oberfläche, die Menschen bedienen.
-
-Wenn ich nicht gerade an Webprojekten arbeite, beschäftige ich mich mit Selfhosting, automatisiere wiederkehrende Aufgaben oder tüftle an der nächsten Idee. In Gaming-Communities kennt man mich als **TechPanda**. Der Name ist geblieben, die Projekte sind größer geworden.
-
-## Was bei mir zusammenkommt
-
-| Bereich | Mein Fokus |
-| :--- | :--- |
-| 🖥️ **Systeme & Netzwerke** | Linux- und Windows-Server, Infrastruktur und zuverlässiger Betrieb |
-| 🛠️ **Entwicklung** | PHP, Laravel, Lua und individuelle Webanwendungen |
-| ⚙️ **Selfhosting & Automatisierung** | Dienste selbst betreiben und wiederkehrende Arbeit vereinfachen |
-| 🤝 **IT-Support** | Fehler verstehen, Lösungen finden und Technik verständlich machen |
-
 ## Vom Gedanken zum eigenen Projekt
 
 Ich entwickle gerne Dinge, die einen konkreten Zweck erfüllen – ob Website, kleines Tool oder umfangreichere Anwendung. Dazu gehören für mich auch die Arbeit hinter den Kulissen: Betrieb, Wartung und die Frage, was sich noch einfacher lösen lässt.
